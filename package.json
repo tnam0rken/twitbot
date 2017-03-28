@@ -3,9 +3,7 @@
 	"version": "0.0.1",
 	"description": "Twiting from golos.io",
 	"main": "gotweet.js",
-	"scripts": {
-		"start": "node gotweet.js"
-	},
+	
 	"dependencies": {
 		"express": "^4.15.2",
 		"twitter": "^1.7.0",
