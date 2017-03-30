@@ -1,5 +1,4 @@
-Автоматическая трансляция событий с вашего аккаунта golos в twitter. Бот для windows/linux/браузера
-![golos vik](https://s11.postimg.org/3nlje31yr/logo.png)
+# Трансляция голосов из блокчейна https://golos.io/
 
 
 # Установка
